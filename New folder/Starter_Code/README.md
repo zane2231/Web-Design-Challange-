@@ -1,12 +1,10 @@
-# Web Design- Challange
-
- Unit 11 Homework: Web Visualization Dashboard 
+# Unit 11 Homework: Web Visualization Dashboard 
 
 ## Background
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
- 
+  ![Images/landingResize.png](Images/landingResize.png)
 
 ## Before You Begin
 
@@ -111,67 +109,71 @@ For an extra challenge, try the following:
 
 ### Screenshots
 
+This section contains screenshots of each page that must be built, at varying screen widths. These are intended as a guide; you can meet the requirements without having the pages match the following images exactly.
 
-#### Landing page
+#### <a id="landing-page"></a>Landing page
 
+Large screen:
 
-![Landing page large screen](Images/landing_page.PNG)
+![Landing page large screen](Images/landingResize.png)
 
+Small screen:
 
-#### Cloudiness page
+![Landing page small screen](Images/landing-sm.png)
+￼
 
+#### <a id="comparisons-page"></a>Comparisons page
 
-![comparison page large screen](Images/cloudiness.PNG)
+Large screen:
 
+![comparison page large screen](Images/comparison-lg.png)
 
-#### Data page
+Small screen:
 
+![comparison page small screen](Images/comparison-sm.png)
 
-![data page large screen](Images/data.PNG)
+#### <a id="data-page"></a>Data page
 
+Large screen:
 
-#### Humidity page
-
-
-![data page large screen](Images/humidity.PNG)
-
-
-#### Comparisonpage
-
-
-![data page large screen](Images/comparison.PNG)
-
-
-#### Temperature page
+![data page large screen](Images/data-lg.png)
 
 
-![data page large screen](Images/temperature.PNG)
+Small screen:
 
+![data page small screen](Images/data-sm.png)
 
-#### Wind page
+#### <a id="visualization-pages"></a>Visualization pages
 
+You'll build four of these, one for each visualization. Here's an example of one visualization page on two different screen sizes:
 
-![data page large screen](Images/wind.PNG)
+Large screen:
 
+![visualize page large screen](Images/visualize-lg.png)
 
+Small screen:
 
+![visualize page small screen](Images/visualize-sm.png)
 
+#### <a id="navigation-menu"></a>Navigation menu
 
+Large screen:
+![nav menu large screen](Images/nav-lg.png)
 
+Small screen:
+![nav menu small screen](Images/nav-sm.png)
 
+## Rubric
 
+[Unit 11 Homework Rubric](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit?usp=sharing)
 
+- - -
 
+## References
 
+OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
 
+- - -
 
-
-
-
-
-
-
-
-
-
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
